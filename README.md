@@ -1,6 +1,6 @@
 ## Task 
 
-  tp create a mobile app that allows users to create and delete the products, display all the created products & provide functionality for users to search from the product list.
+  to create a mobile app that allows users to create and delete the products, display all the created products & provide functionality for users to search from the product list.
 ## Screenshots
 ## LOGIN PAGE
 ![Screenshot (110)](https://github.com/tanvi-gupta03/HK-assesment/assets/140804626/78240440-c058-451c-a487-89a7bc3a8b43)
